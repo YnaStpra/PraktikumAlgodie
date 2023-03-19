@@ -1,0 +1,16 @@
+Pada suatu kelas terdapat 10 mahasiswa yaitu Ahmad, Dahlan, Burhan, Margaret, Robby, Difa, Dian, Kalia, Erfan, Jordan. 
+
+Mereka telah melakukan sebuah tes, mahasiswa tersebut memiliki nilai secara berurutan mendapatkan 25, 68, 45, 97, 100, 89, 35, 72, 74, 78. 
+
+Keesokan harinya mahasiswa tersebut melaukan antrian respon dosen sistemnya yaitu dengan cara mengantri
+
+Mahasiswa tersebut mengantri sesuai dengan yang datang duluan yaitu, Jordan, Kalia, Erfan, Difa, Dian, Robby, Dahlan, Ahmad, Margaret, Burhan.
+
+Namun karena Robby mendapatkan nilai 100 di tes kemarin, teman teman yang lain mengajukan robby untuk respon paling awal disusul oleh
+
+Margaret yang mendapatkan nilai 97, namun Difa merasa belum siap maka Ahmad mengajukan diri untuk menggantikan posisi difa tersebut
+
+
+
+
+
